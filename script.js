@@ -1,3 +1,4 @@
+//BUT ALL IN ALL ITS WORKING FINE, BUT THE IMAGE REQUIREMENT IS QUESTIONABLE WHEN THE MAIN PURPOSE IS TO DISPLAY QOUTES.
 const QUOTES_API = "https://aot-api.vercel.app/quote";
 
 const getQuoteBtn = document.getElementById("getQuote");
